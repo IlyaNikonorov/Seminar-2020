@@ -10,7 +10,7 @@ https://data.mos.ru/opendata/7719028495-pobediteli-olimpiad
 *Ссылки на данные на Hub of Data:*    
 https://hubofdata.ru/dataset/olimpiada    
 ### 4. Ограничения на материал, легальность    
-Ограничения отсутсвуют 
+Ограничения отсутствуют 
 ### 5. Лицензия
 Creative Commons Attribution 4.0
 ### 6. Авторство 
